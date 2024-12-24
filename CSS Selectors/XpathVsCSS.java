@@ -25,6 +25,7 @@ public class XpathVsCSS {
 //		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.hyrtutorials.com/p/css-selectors-practice.html");
+		Thread.sleep(2000);
 
 		
 		
